@@ -1,6 +1,6 @@
 Hi my name is Yousef Moustafa ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ==============================================================================================================================
-CS Student | Aspiring Software Engineer
+CS Student - Aspiring Software Engineer
 ----------
 I'm a passionate CS student, nearing completion of my Bachelor's in Artificial Intelligence. My passion lies in Software Development with its eclectic realms. My GitHub serves as a portfolio showcasing a diverse array of past projects, ranging from personal endeavors to collaborative university assignments. As I continue my journey exploring new technologies, I aim to expand my portfolio with innovative projects. Follow my profile to stay updated!
 
